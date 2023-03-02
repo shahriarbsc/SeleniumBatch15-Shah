@@ -17,7 +17,7 @@ public class LaunchBrowser {
         WebDriver driver=new ChromeDriver();
 
 
-        // open the website google.com
+        // open the website facebook in google.com
 
         driver.get("https://www.facebook.com/");
 

@@ -16,7 +16,8 @@ public class Navigate {
 // open google .com
 
         driver.get("https://google.com");
-// now navigate to facebook.com
+
+        // now navigate to facebook.com
 
         // slow down.
         Thread.sleep(2000);
